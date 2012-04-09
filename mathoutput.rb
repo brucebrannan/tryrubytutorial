@@ -1,4 +1,4 @@
-#/usr/bin/env ruby
+#!/usr/bin/env ruby
 
 #Numeric and mathematic symbols
 puts 2+6
