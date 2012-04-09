@@ -9,4 +9,5 @@ books ={}
 books["Gravity's Rainbow"] = :splendid
 books["The Bible"] = :splendid
 books["Woman's Day"] = :abysmal
-books[""]
+books["A Tale of Two Cities"] = :mediocre
+books["Mary Poppins"] = :quite_not_good
