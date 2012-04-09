@@ -29,11 +29,10 @@ puts
 #The join method took the list of reversed lines and put
 #them together into a string (author states could have used to_s)
 
-#The author is incorrect in his assumption that to_s functions the same
-#way
 puts poem.lines.to_a.reverse.join
 puts
 
+#The author is incorrect in his assumption that to_s functions the same way
 #The to_s method interprets escape sequences
 puts poem.lines.to_a.reverse.to_s
 puts
