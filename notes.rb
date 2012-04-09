@@ -1,23 +1,4 @@
-# Using the Prompt
-
-#Numeric and mathematic symbols
-puts 2+6
-puts 4*10
-puts 5-12
-puts 40/4
-
-#Say Your Name
-puts "Bruce"
-
-#Reverse Your Name
-puts "Bruce".reverse
-puts "Adventure Time".reverse
-
-#Counting the letters
-puts "Bruce".length
-
-#Repeat
-puts "Bruce " * 5
+#!/usr/bin/env ruby
 
 #Summary #1
 #Typing the code from a prompt (irb) gives you an answer
