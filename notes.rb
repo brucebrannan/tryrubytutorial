@@ -13,3 +13,5 @@
 #If there's an error in ruby it will skip a prompt and tell you
 #Arrays are lists for sorting things in order
 
+#Do and End are another way to make up a block
+
