@@ -11,3 +11,5 @@ books["The Bible"] = :splendid
 books["Woman's Day"] = :abysmal
 books["A Tale of Two Cities"] = :mediocre
 books["Mary Poppins"] = :quite_not_good
+
+print "The number of elements in the dictionary is: "  +books.length
