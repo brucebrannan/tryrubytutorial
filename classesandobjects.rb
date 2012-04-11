@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+#This tutorial is for the popup example
 #This defines a method called load_comics
 def load_comics( path )
   comics = {}
